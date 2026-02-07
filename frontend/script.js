@@ -1,5 +1,5 @@
 // Backend API URL - update this when deploying
-const API_URL = 'http://127.0.0.1:5001/joke';
+const API_URL = 'https://laugh-dkp4.onrender.com';
 
 // Get DOM elements
 const jokeText = document.getElementById('jokeText');
